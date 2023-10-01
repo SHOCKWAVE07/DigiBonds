@@ -17,7 +17,7 @@ The objective of this project is to introduce our innovative platform for decent
 - **Lightning-Fast Transactions:** Our platform offers swift and seamless transactions, saving you time and allowing for quick investment decisions.
 - **Unprecedented Transparency:** We prioritize transparency at every step, providing you with clear insights and control over your T-Bill investments.
 
-  ## Technologies Used
+## Technologies Used
 - **Metamask:** Metamask is integrated for secure and user-friendly transactions within our platform.
 - **ThirdWeb:** ThirdWeb technologies are employed to enhance the web 3.0 experience for our users.
 - **Ethereum:** We utilize Ethereum smart contracts for transparent and secure T-Bill transactions.
