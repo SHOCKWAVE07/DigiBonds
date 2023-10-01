@@ -1,6 +1,7 @@
 # DigiBonds - A Modern DeFi Solution for T-Bills
 
 ### Live Link : https://stalwart-starship-6c8eca.netlify.app/
+### Mandatory to use Metamask or a Web3 Browser 
 
 ## Problem Statement
 DeFi offers a range of financial opportunities but suffers from poor user experiences and complex interfaces. Decentralized Finance is a major upcoming sector. Channel your creativity through Web 3.0 technologies and create an application solving/simplifying a task.
